@@ -1,4 +1,4 @@
 # datasciencecoursera
-Test repository coursera
-Assemble your toolbox
+Test repository - 
+Assemble your toolbox -
 Task evaluated by colleague
